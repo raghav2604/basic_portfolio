@@ -296,3 +296,21 @@ hr{
         margin-top: 0px;
     }
 }
+
+@media  screen and (min-width: 1110px){
+    .bottom-cloud{
+        width: 35%;
+        right: 63%;
+        top: 46%;
+    }
+
+    .top-cloud{
+        width: 35%;
+        top: 9%;
+        left: 63%;
+    }
+    .mountain{
+        width: 90%;
+        margin-top: 35px;
+    }
+}
